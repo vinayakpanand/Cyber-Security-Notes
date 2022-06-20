@@ -1,12 +1,3 @@
-resign_request/success?next_url=javascript%3Aalert%2F**%2F(document.domain)
-
-html
-<h1>Testing test</h1>
-
-//////////////////////
-['-confirm(4)-']
-
-..........................
 var x = document.querySelectorAll("a");
 var myarray = []
 for (var i=0; i<x.length; i++){
